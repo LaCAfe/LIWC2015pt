@@ -1,4 +1,7 @@
 # LIWC2015pt
+
+LIWC lexicons are available for download in www.liwc.net/dictionaries.
+
 When using this file for academic purposes, please cite our article:
 
 Flavio Carvalho, Rafael Guimarães Rodrigues, Gabriel dos Santos, Pedro Cruz, Lilian Ferrari, and Gustavo Paiva Guedes. 2019. Evaluating the 2015 Brazilian Portuguese LIWC Lexicon with sentiment analysis in social networks. In CSBC 2019 - 8º BraSNAM, Belém, Brazil.
