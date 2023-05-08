@@ -2,7 +2,23 @@
 
 LIWC lexicons are available for download in www.liwc.net/dictionaries.
 
-When using the Brazilian Portuguese LIWC2015 dictionary (LIWC2015pt) for academic purposes, please cite our article:
+When using the Brazilian Portuguese LIWC2015 dictionary (LIWC2015pt) for academic purposes, please cite our two article:
+
+
+
+Carvalho, F., Junior, F.P., Ogasawara, E., Ferrari, L. and Guedes, G., 2023. Evaluation of the Brazilian Portuguese version of linguistic inquiry and word count 2015 (BP-LIWC2015). Language Resources and Evaluation, pp.1-20.
+
+```
+@article{carvalho2023evaluation,
+  title={Evaluation of the Brazilian Portuguese version of linguistic inquiry and word count 2015 (BP-LIWC2015)},
+  author={Carvalho, Flavio and Junior, Fabio Paschoal and Ogasawara, Eduardo and Ferrari, Lilian and Guedes, Gustavo},
+  journal={Language Resources and Evaluation},
+  pages={1--20},
+  year={2023},
+  publisher={Springer}
+}
+```
+
 
 Flavio Carvalho, Rafael Guimarães Rodrigues, Gabriel dos Santos, Pedro Cruz, Lilian Ferrari, and Gustavo Paiva Guedes. 2019. Evaluating the 2015 Brazilian Portuguese LIWC Lexicon with sentiment analysis in social networks. In CSBC 2019 - 8º BraSNAM, Belém, Brazil.
 
