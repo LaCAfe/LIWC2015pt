@@ -2,7 +2,7 @@
 
 LIWC lexicons are available for download in www.liwc.net/dictionaries.
 
-When using the Brazilian Portuguese LIWC2015 dictionary (LIWC2015pt) for academic purposes, please cite our two article:
+When using the Brazilian Portuguese LIWC2015 dictionary (LIWC2015pt) for academic purposes, please cite our two articles:
 
 
 
